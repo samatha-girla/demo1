@@ -12,8 +12,8 @@
   <con:entry key="Select Report Type" value=""/>
   <con:entry key="System Properties" value=""/>
   <con:entry key="Password" value="${myproject.password}"/>
-  <con:entry key="Print Report" value="true"/>
-  <con:entry key="Open Report" value="false"/>
+  <con:entry key="Print Report" value="test"/>
+  <con:entry key="Open Report" value="true"/>
   <con:entry key="Export JUnit Results with test properties" value="false"/>
   <con:entry key="Global Properties" value=""/>
   <con:entry key="Project Properties" value=""/>
